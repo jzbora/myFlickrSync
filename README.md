@@ -21,9 +21,10 @@ TODO
 </ul>
 
 
-Install
+Install & Run
 -------
 
 <p>install PySide (see: http://qt-project.org/wiki/Get-PySide)</p>
 <p>pip install poster</p>
 <p>pip install flickr_api</p>
+<p>python app.py</p>
